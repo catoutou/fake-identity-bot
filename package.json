@@ -1,0 +1,15 @@
+{
+  "name": "fake-identity-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour gérer et utiliser des identités personnalisées",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "identity"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
